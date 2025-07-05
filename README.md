@@ -44,12 +44,15 @@ Railway	Hosting and deployment
 
 This project was officially recognized and praised by the Robotics Club. It helped establish a strong online presence for the team and became a model for other technical clubs.
 
-![1000009870](https://github.com/user-attachments/assets/717d84e5-94eb-426d-83ad-7043350312e2)
-![1000009861](https://github.com/user-attachments/assets/4b2d5987-bfc8-4e16-8c0a-ad0f2be38e90)
-![1000009874](https://github.com/user-attachments/assets/216035b3-88cf-4773-b8a5-8927f7af7611)
-![1000009748](https://github.com/user-attachments/assets/e73209d4-2b30-433f-bb1d-0679dd0e4558)
-![1000009749](https://github.com/user-attachments/assets/41b12a26-2817-4a32-a83d-42e4243d157d)
-![1000009875](https://github.com/user-attachments/assets/96b38943-b298-4d36-8a06-a43763959029)
-![1000009869](https://github.com/user-attachments/assets/3f87452f-a9f7-42b5-8995-e872dc3d95a2)
-![1000009871](https://github.com/user-attachments/assets/72935cfa-7c47-4f7c-8771-087ff24587ec)
+![1000009861](https://github.com/user-attachments/assets/c3825a45-b154-4e68-8139-0e8ae3e0cf76)
+![1000009749](https://github.com/user-attachments/assets/43d4853f-d0f1-4bb6-a3dd-c07baf0fb10c)
+![1000009870](https://github.com/user-attachments/assets/c51d0e40-1e2f-4731-ac1d-e5ceac1f2301)
+![1000009871](https://github.com/user-attachments/assets/c482567e-eedb-4256-a702-f0281e9e8822)
+![1000009872](https://github.com/user-attachments/assets/891b9052-8c81-4da4-bf54-307b474f7dc1)
+![1000009874](https://github.com/user-attachments/assets/85e009f5-00c5-4d98-9a5a-316e2333bb75)
+![1000009875](https://github.com/user-attachments/assets/29519958-b59e-47db-9d8c-d416cf8d5e24)
+![1000009869](https://github.com/user-attachments/assets/a825104c-e5be-48cc-bfdf-9a23fb72931a)
+![1000009748](https://github.com/user-attachments/assets/fda16bbd-d9c1-4371-9b3e-584cb8af6363)
+
+
 
